@@ -13,7 +13,8 @@
 - <samp>Secara garis besasr Software Testing terbagi menjadi beberapa bagian, biasanya digambarkan pada Pyramid Test.
   
   <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test" width=50% height=50%/>
-  <samp> </samp>
+ 
+  
                                                                                                    
   - <samp>UI Test (End To End Test).</samp>
                                                                                                    
