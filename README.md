@@ -12,4 +12,17 @@
   
 - <samp>Secara garis besasr Software Testing terbagi menjadi beberapa bagian, biasanya digambarkan pada Pyramid Test.
   
-  <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/UI%20Test.jpg" alt="Automated Test & Management Dependency"/>
+  <img src=https://github.com/suardi26/Java-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test"/>
+                                                                                                   
+  - <samp>UI Test (End To End Test).</samp>
+                                                                                                   
+    <samp>UI Test adalah test yang dilakukan menyeluruh atau dari ujung depan ke ujung akhir, jadi testing ini </samp>
+                                                                                                   
+    <samp>membuat program yang bertindak sebagai user dan mengecek semua flow dari frontend, sampai ke backend hingga </samp>
+                                                                                                   
+    <samp>service-service yang terintegrasi dengan aplikasi kita. Karena testing ini melakukan test secara menyeluruh </samp>
+                                                                                                   
+    <samp>dan sistem harus berjalan secara bersamaan pada saat melakukan test untuk itu testing ini paling mahal biayanya.</samp>
+                                                                                              
+                                                                                                   
+                                                                                                  
