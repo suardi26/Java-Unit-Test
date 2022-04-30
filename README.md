@@ -24,7 +24,7 @@
                                                                                                    
     <samp>dan sistem harus berjalan secara bersamaan pada saat melakukan test untuk itu testing ini paling mahal biayanya.</samp>
        
-    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=50% height=50%/>
+    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
   
   - <samp>Service Test (Integration Test).</samp>    
                                                                                                    
@@ -34,6 +34,24 @@
   
     <samp>atau service lain yang terhubung dengan aplikasi kita. Jadi service test mengerjakan satu persatu proses integrasi</samp>     
   
-   <samp>software pendukung dengan aplikasi kita, hal ini mengakibatkan biayanya lebih murah dibanding dengan UI testing.</samp>
+    <samp>software pendukung dengan aplikasi kita, hal ini mengakibatkan biayanya lebih murah dibanding dengan UI testing.</samp>
   
-   <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Service%20Test.jpg" alt="Pyramid Test" width=50% height=50%/>
+    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Service%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
+  
+  - <samp>Unit Test.</samp>
+  
+    <samp>Pada saat membuat aplikasi, maka aplikasi tersebut terbagi dalam beberapa bagian yaitu layer atau class.</samp> 
+  
+    <samp>Unit test adalah melakukan testing ke kompenen terkecil dari aplikasi yaitu layer/class. Misalnya kita membuat</samp> 
+  
+    <samp>class Controller maka kita akan membuat unit test Controller atau kita membuat class Service maka kita akan membuat</samp>
+  
+    <samp>unit test Service. jadi fokus dari unit test yaitu melalukan test di bagian terckecil di dalam aplikasi kita,</samp> 
+  
+    <samp>sehingga biayanya paling murah dan untuk melakukan testing unit test terbilang mudah karena kita cukup menjalankan</samp> 
+  
+    <samp>unit test dari aplikasi kita tanpa harus menjalankan aplikasinya. Dan meskipun aplikasi connect ke database namun</samp> 
+  
+    <samp>ketika melakukan unit test tidak dibutuhkan ke database.</samp>
+  
+    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
