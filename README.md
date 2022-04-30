@@ -62,7 +62,7 @@
 
   - <samp>Unit test akan fokus menguji bagian kode program terkecil, biasanya menguji sebuah class dan method.</samp>
   
-  - <samp>Unit test biasanya dibuat kecil dan cepat, oleh karena itu biasanya koadang kode unit test lebih banyak dari</samp> 
+  - <samp>Unit test biasanya dibuat kecil dan cepat, oleh karena itu biasanya kode unit test lebih banyak dari</samp> 
   
     <samp>kode program aslinya, karena semua skenario pengujian akan dicoba di unit test misalnya membuat suatu method maka</samp> 
   
