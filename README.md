@@ -12,7 +12,8 @@
   
 - <samp>Secara garis besasr Software Testing terbagi menjadi beberapa bagian, biasanya digambarkan pada Pyramid Test.
   
-  <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test" width=50% height=50%/><br />
+  <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/TestPyramid.jpg" alt="Pyramid Test" width=50% height=50%/>
+  <samp> </samp>
                                                                                                    
   - <samp>UI Test (End To End Test).</samp>
                                                                                                    
@@ -24,7 +25,7 @@
                                                                                                    
     <samp>dan sistem harus berjalan secara bersamaan pada saat melakukan test untuk itu testing ini paling mahal biayanya.</samp>
        
-    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=60% height=60%/><br />
+    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/UI%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
   
   - <samp>Service Test (Integration Test).</samp>    
                                                                                                    
@@ -36,7 +37,7 @@
   
     <samp>software pendukung dengan aplikasi kita, hal ini mengakibatkan biayanya lebih murah dibanding dengan UI testing.</samp>
   
-    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Service%20Test.jpg" alt="Pyramid Test" width=60% height=60%/><br />
+    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Service%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
   
   - <samp>Unit Test.</samp>
   
@@ -54,4 +55,4 @@
   
     <samp>ketika melakukan unit test tidak dibutuhkan ke database.</samp>
   
-    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/><br />
+    <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
