@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.practice.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.045 s - in com.practice.CalculatorTest
