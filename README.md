@@ -57,3 +57,29 @@
     <samp>ketika melakukan unit test tidak dibutuhkan ke database.</samp>
   
     <img src="https://github.com/suardi26/Java-Unit-Test/blob/main/Unit%20Test.jpg" alt="Pyramid Test" width=60% height=60%/>
+  
+### Unit Test
+
+  - <samp>Unit test akan fokus menguji bagian kode program terkecil, biasanya menguji sebuah class dan method.</samp>
+  
+  - <samp>Unit test biasanya dibuat kecil dan cepat, oleh karena itu biasanya koadang kode unit test lebih banyak dari</samp> 
+  
+    <samp>kode program aslinya, karena semua skenario pengujian akan dicoba di unit test misalnya membuat suatu method maka</samp> 
+  
+    <samp>unit testnya dibuat berbagai skenario contohnya skenario berhasil, gagal, dll sesuai kebutuhan pengujian.</samp> 
+  
+  - <samp>Unit test bisa digunakan sebagai cara untuk meningkatkan kualitas program.</samp> 
+
+## JUnit.
+  
+     - <samp>Junit adalah test framework yang paling populer di Java.</samp> 
+  
+     - <samp>Untuk implementasi unit test tidak bisa menggunakan bawaan java karena bawaan java tidak terdapat </samp> 
+  
+       <samp>tasting frameworknya namun memerlukan library.</samp> 
+  
+     - <samp>Library yang digunakan untuk melakukan unit test adalah JUnit & TestNG.</samp> 
+  
+     - <samp>Untuk JUnit 5 membutuhkan java minimal versi 8.</samp> 
+  
+     - <samp>Untuk detail mengenai JUnit dapat mengujungi halaman 'https://junit.org'.</samp> 
