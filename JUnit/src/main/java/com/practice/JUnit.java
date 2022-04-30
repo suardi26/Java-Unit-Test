@@ -54,7 +54,7 @@ package com.practice;
 
  - Unit Test.
      - Unit test akan fokus menguji bagian kode program terkecil, biasanya menguji sebuah class dan method.
-     - Unit test biasanya dibuat kecil dan cepat, oleh karena itu biasanya koadang kode unit test lebih banyak dari kode program
+     - Unit test biasanya dibuat kecil dan cepat, oleh karena itu biasanya kode unit test lebih banyak dari kode program
        aslinya, karena semua skenario pengujian akan dicoba di unit test misalnya membuat suatu method maka unit testnya dibuat
        berbagai skenario contohnya skenario berhasil, gagal, dll sesuai kebutuhan pengujian.
      - Unit test bisa digunakan sebagai cara untuk meningkatkan kualitas program.
